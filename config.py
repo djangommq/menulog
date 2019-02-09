@@ -1,0 +1,5 @@
+MONGODB_SERVER = '13.230.128.164'
+MONGODB_PORT = 27017
+USER = 'yunfutech'
+PASSWORD = 'sDdxPijskyujbcZw'
+MONGODB_DATABASE='menulog'
